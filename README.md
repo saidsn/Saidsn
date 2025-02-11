@@ -5,8 +5,11 @@ Frontend Developer
 ------------------
 
 MERN Stack Developer Passionate about creating dynamic and responsive web applications. 
+
 Full-Stack Developer Crafting scalable applications using MongoDB, Express.js, React, and Node.js. 
+
 Bridging the gap between front-end and back-end to deliver seamless solutions. 
+
 Specializing in end-to-end development for enhanced user experiences.
 
 * 🌍  I'm based in Azerbaijan
