@@ -4,15 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-<p>MERN Stack Developer</p>
-<p>Passionate about creating dynamic and responsive web applications.</p>
+MERN Stack Developer | Passionate about creating dynamic and responsive web applications.
 
-<p>Full-Stack Developer</p>
-<p>Crafting scalable applications using MongoDB, Express.js, React, and Node.js.</p>
+Full-Stack Developer | Crafting scalable applications using MongoDB, Express.js, React, and Node.js.
 
-<p>Bridging the gap between front-end and back-end to deliver seamless solutions.</p>
+Bridging the gap between front-end and back-end to deliver seamless solutions.
 
-<p>Specializing in end-to-end development for enhanced user experiences.</p>
+Specializing in end-to-end development for enhanced user experiences.
 
 * 🌍  I'm based in Azerbaijan
 * ✉️  You can contact me at [seidvahidli@gmail.com](mailto:seidvahidli@gmail.com)
