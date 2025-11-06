@@ -1,16 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Said
 ============================================================================================================================
 
-Frontend Developer
+Full-Stack Developer
 ------------------
 
-MERN Stack Developer | Passionate about creating dynamic and responsive web applications.
-
-Full-Stack Developer | Crafting scalable applications using MongoDB, Express.js, React, and Node.js.
-
-Bridging the gap between front-end and back-end to deliver seamless solutions.
-
-Specializing in end-to-end development for enhanced user experiences.
+C# Full-Stack Developer | Experienced in ASP.NET Core, Entity Framework, and modern JavaScript frameworks.
+Focused on building scalable, secure, and maintainable web applications through clean architecture and efficient coding practices.
 
 * 🌍  I'm based in Azerbaijan
 * ✉️  You can contact me at [seidvahidli@gmail.com](mailto:seidvahidli@gmail.com)
