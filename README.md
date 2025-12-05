@@ -8,8 +8,8 @@ C# Full-Stack Developer | Experienced in ASP.NET Core, Entity Framework, and mod
 Focused on building scalable, secure, and maintainable web applications through clean architecture and efficient coding practices.
 
 * 🌍  I'm based in Azerbaijan
-* ✉️  You can contact me at [seidvahidli@gmail.com](mailto:seidvahidli@gmail.com)
-* 🚀  I'm currently working on [a E-commerce project using the MERN stack.](http://github.com/saidsn/Full-Mern-Project)
+* ✉️  You can contact me at [seidvahidli@gmail.com](mailto:saidmnuraliyev@gmail.com)
+* 🚀  I'm currently working on [Employee Benefits Management Platform](https://github.com/saidsn/AvanKart)
 * 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on building innovative web applications, particularly in the MERN stack.
 * ⚡  ✨ Always excited to experiment with new tech and explore innovative solutions.
