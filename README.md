@@ -16,7 +16,6 @@
 
 **Languages:**  
 - 🌐 Proficient in **C#**, **JavaScript**, **TypeScript**
-- 🐍 Experience in **Python (FastAPI)**
 
 **.NET Technologies:**  
 - **ASP.NET Core**: Building web applications and REST APIs  
@@ -25,7 +24,7 @@
 - **LINQ**, **SignalR**
 
 **Frontend Frameworks:**  
-- **React**, **Vue.js**, **Next.js**, **Redux**  
+- **React**, **Next.js**, **Redux**  
 - Styling: **TailwindCSS**, **Bootstrap**, **Material UI**, **Chakra UI**
 
 **Databases:**  
@@ -33,37 +32,12 @@
 - **NoSQL (MongoDB)**  
 
 **Cloud and DevOps:**  
-- **Microsoft Azure**, **Google Cloud**  
+- **Microsoft Azure**  
 - CI/CD: GitHub Actions  
 
 **Tools:**  
 - IDEs: **Visual Studio**, **VS Code**  
 - Version Control: **Git**, **GitHub**
-
----
-
-## 🏆 Notable Projects
-
-### [Project1Name](https://github.com/saidsn/project1-link)
-🚀 **Description:** Built a high-performance e-commerce platform using **ASP.NET Core**, **Entity Framework**, and **React**.  
-🔑 **Key Features:**  
-- Integrated secure payment gateway APIs.  
-- Optimized database using advanced SQL views and stored procedures.  
-
----
-
-### [Project2Name](https://github.com/saidsn/project2-link)
-🌐 **Description:** Implemented a multi-tenant SaaS application using **.NET Core Microservices**.  
-📈 **Highlights:**  
-- Achieved ~30% performance improvement through caching mechanisms (**Redis**, **MemoryCache**).  
-- Designed and deployed scalable REST APIs.  
-
----
-
-## 📚 Certifications
-
-- 🏅 **Microsoft Azure Certified Developer Associate**
-- 🏆 **.NET MAUI for Cross-Platform Apps**  
 
 ---
 
@@ -74,9 +48,3 @@
 
 <a href="https://www.github.com/saidsn" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/saidsn?color=blue&label=Followers&logo=github&style=for-the-badge" /></a>
-
-<!-- <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/saidsn"><img src="https://github-readme-stats.vercel.app/api?username=saidsn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="saidsn's GitHub stats" /></a>
-
-<a href="https://github.com/saidsn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidsn&langs_count=10&title_color=3382ed&text_color=ef4444&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
