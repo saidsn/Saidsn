@@ -20,11 +20,11 @@
 **.NET Technologies:**  
 - **ASP.NET Core**: Building web applications and REST APIs  
 - **Entity Framework Core**: Database-first and code-first approaches  
-- **.NET Core**: Microservices, Multi-tier architecture  
+- **.NET Core**: Multi-tier architecture  
 - **LINQ**, **SignalR**
 
 **Frontend Frameworks:**  
-- **React**, **Next.js**, **Redux**  
+- **React**, **Redux**  
 - Styling: **TailwindCSS**, **Bootstrap**, **Material UI**, **Chakra UI**
 
 **Databases:**  
@@ -33,7 +33,6 @@
 
 **Cloud and DevOps:**  
 - **Microsoft Azure**  
-- CI/CD: GitHub Actions  
 
 **Tools:**  
 - IDEs: **Visual Studio**, **VS Code**  
