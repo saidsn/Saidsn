@@ -24,7 +24,7 @@
 - **LINQ**, **SignalR**
 
 **Frontend Frameworks:**  
-- **React**, **Redux**  
+- **React**, **Redux** ,**Node** 
 - Styling: **TailwindCSS**, **Bootstrap**, **Material UI**, **Chakra UI**
 
 **Databases:**  
